@@ -388,6 +388,12 @@ scr1_memory_tb_ahb #(
     .dmem_hrdata            (dmem_hrdata),
     .dmem_hresp             (dmem_hresp )
 );
+ 
+scr1_tb_log_cmd i_scr1_tb_log_cmd(
+    .csr_mstatus_local(i_top.i_core_top.i_pipe_top.i_pipe_csr.csr_mstatus),
+    .csr_mcycle_local(i_top.i_core_top.i_pipe_top.i_pipe_csr.csr_mcycle),
+    .pc_local(i_top.i_core_top.i_pipe_top.curr_pc)
+);
 
 endmodule : scr1_top_tb_ahb
 

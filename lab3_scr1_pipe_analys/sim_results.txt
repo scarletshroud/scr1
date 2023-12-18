@@ -1,0 +1,217 @@
+scr1_top_tb_ahb
+[0;34m---Test:                          xor.hex[0m
+pc=0xa096
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x2b
+pc=0xa09a
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x2c
+pc=0xa0b4
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x37
+pc=0xa0d4
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x42
+pc=0xa0f2
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x4b
+pc=0xa112
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x58
+pc=0xa116
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x59
+pc=0xa132
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x67
+pc=0xa136
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x68
+pc=0xa14a
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x72
+pc=0xa14e
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x73
+pc=0xa168
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x7c
+pc=0xa168
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x87
+pc=0xa192
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x96
+pc=0xa192
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0xa2
+pc=0xa1c0
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0xb1
+pc=0xa1c0
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0xbe
+pc=0xa1f0
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0xcf
+pc=0xa1f0
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0xd9
+pc=0xa21a
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0xe7
+pc=0xa21a
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0xf3
+pc=0xa24a
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x102
+pc=0xa24a
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x10e
+pc=0xa274
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x11d
+pc=0xa274
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x12a
+pc=0xa2a0
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x139
+pc=0xa2a0
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x146
+pc=0xa2ce
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x159
+pc=0xa2d2
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x15a
+pc=0xa2ce
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x169
+pc=0xa2d2
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x16a
+pc=0xa2f8
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x178
+pc=0xa2f8
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x182
+pc=0xa322
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x190
+pc=0xa322
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x19c
+pc=0xa352
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x1ab
+pc=0xa352
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x1b7
+pc=0xa37c
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x1c6
+pc=0xa37c
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x1d3
+pc=0xa3a8
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x1e2
+pc=0xa3a8
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x1ef
+pc=0xa3d6
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x202
+pc=0xa3da
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x203
+pc=0xa3d6
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x212
+pc=0xa3da
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x213
+pc=0xa3f6
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x220
+pc=0xa3fa
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x221
+pc=0xa410
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x22a
+pc=0xa422
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x22f
+pc=0xa426
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x230
+pc=0xa43e
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x23c
+pc=0xa442
+Detect XOR command, CSR values is:
+mstatus=0x1880
+mcycle=0x23d
+[0;32mTest passed[0m
+
+#--------------------------------------
+# Summary: 1/1 tests passed
+#--------------------------------------
+
+- /home/scarletshroud/scr1/src/tb/scr1_top_tb_runtests.sv:199: Verilog $finish
