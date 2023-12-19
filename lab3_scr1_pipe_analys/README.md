@@ -1,4 +1,4 @@
-# lab3_scr1_pipe_analus
+# lab3_scr1_pipe_analys
 Лабораторная работа по SCR1  
 Выполнил: Зиновичев Егор, группа P4119  
 
